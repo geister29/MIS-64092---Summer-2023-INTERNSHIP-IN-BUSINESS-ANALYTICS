@@ -1,8 +1,3 @@
-#! /usr/bin/python3
-# coding=utf-8
-# oarnet.py Copyright 2019 Dennis Risen, Case Western Reserve University
-#
-"""
 Real-time poll the OARnet statistics from https://gateway.oar.net/stats/api to update
 a historical record of traffic at each of the selected interfaces.
 Provide alerts of significant dropped traffic via email.
